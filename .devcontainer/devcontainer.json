@@ -17,5 +17,6 @@
              "codespace.md"
          ]
      }
- }
+ },
+  "postCreateCommand": "echo 'Codespace setup complete!"
 }
